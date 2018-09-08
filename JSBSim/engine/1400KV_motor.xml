@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+
+<electric_engine name="electric_1mw">
+  <power unit="WATTS">  378.0 </power>
+</electric_engine>
