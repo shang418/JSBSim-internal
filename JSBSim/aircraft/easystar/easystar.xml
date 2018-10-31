@@ -17,7 +17,7 @@
     
     <fileheader>
         <author>James Goppert</author>
-        <filecreationdate>2018-10-31</filecreationdate>
+        <filecreationdate>2010-6-3</filecreationdate>
         <description>Multiplex Easy Star (DATCOM)</description>
         <reference title="Multiplex Easy Star (DATCOM)"/>
     </fileheader>
@@ -27,8 +27,8 @@
         ********************************************************************** -->
 	<metrics>
       <wingarea unit="FT2">        2.2792  </wingarea>
-      <wingspan unit="FT">         4.4167  </wingspan>
-      <chord unit="FT">             .6667  </chord>
+      <wingspan unit="FT">         4.5000  </wingspan>
+      <chord unit="FT">             .5606  </chord>
       <htailarea unit="FT2">        .4457  </htailarea>
       <htailarm unit="FT">          .4280  </htailarm>
       <vtailarea unit="FT2">        .1606  </vtailarea>
@@ -60,14 +60,14 @@
         MASS_BALANCE
         ********************************************************************** -->
     <mass_balance>
-		<ixx unit="SLUG*FT2"> 0.03059 </ixx>
-        <iyy unit="SLUG*FT2"> 0.25351 </iyy>
-        <izz unit="SLUG*FT2"> 0.09994 </izz>
+		<ixx unit="SLUG*FT2"> 0.059 </ixx>
+        <iyy unit="SLUG*FT2"> 0.02465 </iyy>
+        <izz unit="SLUG*FT2"> 0.07869 </izz>
 		<ixz unit="SLUG*FT2"> 0.0 </ixz>
-        <emptywt unit="LBS"> 1.888 </emptywt>
+        <emptywt unit="LBS"> 2.0 </emptywt>
         <!-- the center of gravity -->
         <location name="CG" unit="IN">
-            <x> 13.6 </x>
+            <x> 2.0 </x>
             <y> 0.0 </y>
             <z> 0.0 </z>
         </location>
