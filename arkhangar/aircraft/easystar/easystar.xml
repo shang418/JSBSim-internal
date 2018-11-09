@@ -61,7 +61,7 @@
         ********************************************************************** -->
     <mass_balance>
 		<ixx unit="SLUG*FT2"> 0.03059 </ixx>
-        <iyy unit="SLUG*FT2"> 0.25351 </iyy>
+        <iyy unit="SLUG*FT2"> 0.02535 </iyy>
         <izz unit="SLUG*FT2"> 0.09994 </izz>
 		<ixz unit="SLUG*FT2"> 0.0 </ixz>
         <emptywt unit="LBS"> 1.888 </emptywt>
